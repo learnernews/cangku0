@@ -1,0 +1,3 @@
+﻿  菜单View.cpp
+c:\users\lailailai\documents\visual studio 2015\projects\菜单\菜单\菜单view.cpp(33): error C2065: “s”: 未声明的标识符
+c:\users\lailailai\documents\visual studio 2015\projects\菜单\菜单\菜单view.cpp(68): error C2059: 语法错误:“->”

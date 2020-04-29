@@ -1,0 +1,7 @@
+﻿  MFC3.30View.cpp
+c:\users\lailailai\documents\visual studio 2015\projects\mfc3.30\mfc3.30\mfc3.30view.cpp(100): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\lailailai\documents\visual studio 2015\projects\mfc3.30\mfc3.30\mfc3.30view.cpp(101): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\lailailai\documents\visual studio 2015\projects\mfc3.30\mfc3.30\mfc3.30view.cpp(97): warning C4101: “h”: 未引用的局部变量
+c:\users\lailailai\documents\visual studio 2015\projects\mfc3.30\mfc3.30\mfc3.30view.cpp(97): warning C4101: “w”: 未引用的局部变量
+  MFC3.30.vcxproj -> C:\Users\lailailai\documents\visual studio 2015\Projects\MFC3.30\Debug\MFC3.30.exe
+  MFC3.30.vcxproj -> C:\Users\lailailai\documents\visual studio 2015\Projects\MFC3.30\Debug\MFC3.30.pdb (Partial PDB)
