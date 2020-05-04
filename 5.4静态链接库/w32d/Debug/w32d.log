@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  w32d.cpp
+    正在创建库 D:\project\5.4静态链接库\Debug\w32d.lib 和对象 D:\project\5.4静态链接库\Debug\w32d.exp
+  w32d.vcxproj -> D:\project\5.4静态链接库\Debug\w32d.dll
+  w32d.vcxproj -> D:\project\5.4静态链接库\Debug\w32d.pdb (Full PDB)
